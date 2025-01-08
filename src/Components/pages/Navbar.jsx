@@ -19,7 +19,7 @@ const Navbar = ({ toggle, setToggle, setChengeIcon, changeIcon, CartCount }) => 
   ];
 
   const subnav = [
-    { name: "Home"},
+    { name: "Home",path:"/"},
     { name: "About", path: "/about" },
     { name: "Contact", path: "/contact" },
   ];

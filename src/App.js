@@ -73,10 +73,10 @@ function App() {
 
       {/* Sidebar Component */}
       <Slidebar toggle={toggle} setToggle={setToggle} changeIcon={changeIcon} setChengeIcon={setChengeIcon} />
-
+       
       {/* Routes */}
       <Routes>
-        <Route path="/On-shop-shopping-page" element={<Home addToCart={addToCart} toggle={toggle}/>} />
+        <Route path="/" element={<Home addToCart={addToCart} toggle={toggle}/>} />
         <Route path="/about" element={<About toggle={toggle}/>} />
         <Route path="/contact" element={<Contact toggle={toggle}/>} />
         <Route path="/login" element={<Login />} toggle={toggle}/>
