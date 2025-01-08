@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/on-shop/static/css/main.d4a9697d.css",
-    "main.js": "/on-shop/static/js/main.bfe14018.js",
+    "main.css": "/on-shop/static/css/main.f0ab3378.css",
+    "main.js": "/on-shop/static/js/main.1834828b.js",
     "static/js/488.70798935.chunk.js": "/on-shop/static/js/488.70798935.chunk.js",
     "static/media/speaker.jpg": "/on-shop/static/media/speaker.e7adf5ed453ce0ef29b9.jpg",
     "static/media/scl3.jpg": "/on-shop/static/media/scl3.7c053928990aa8edd0f7.jpg",
@@ -118,12 +118,12 @@
     "static/media/mobile2.webp": "/on-shop/static/media/mobile2.5e5eb1c4a68d9bc86161.webp",
     "static/media/phone2.webp": "/on-shop/static/media/phone2.3b015898e2e3457728a1.webp",
     "index.html": "/on-shop/index.html",
-    "main.d4a9697d.css.map": "/on-shop/static/css/main.d4a9697d.css.map",
-    "main.bfe14018.js.map": "/on-shop/static/js/main.bfe14018.js.map",
+    "main.f0ab3378.css.map": "/on-shop/static/css/main.f0ab3378.css.map",
+    "main.1834828b.js.map": "/on-shop/static/js/main.1834828b.js.map",
     "488.70798935.chunk.js.map": "/on-shop/static/js/488.70798935.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4a9697d.css",
-    "static/js/main.bfe14018.js"
+    "static/css/main.f0ab3378.css",
+    "static/js/main.1834828b.js"
   ]
 }
